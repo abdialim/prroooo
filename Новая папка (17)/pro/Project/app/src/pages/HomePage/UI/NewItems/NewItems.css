@@ -1,0 +1,17 @@
+.cards-catalog {
+    display: flex;
+    gap: 23px;
+    margin-top: 40px;
+}
+
+.NewItems {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin {
+    margin-top: 120px;
+}

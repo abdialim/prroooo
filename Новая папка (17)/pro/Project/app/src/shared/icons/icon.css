@@ -1,0 +1,10 @@
+.icon-small {
+    width: 22px;
+    height: 22px;
+    object-fit: contain;
+}
+
+.img-large {
+    width: 140.75px;
+    height: 214px;
+}

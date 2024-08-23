@@ -1,0 +1,9 @@
+.card {
+    box-sizing: border-box;
+}
+.first {
+    margin-top: 25px;
+}
+.second {
+    margin-top: 10px;
+}

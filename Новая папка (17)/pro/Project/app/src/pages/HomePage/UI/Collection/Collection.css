@@ -1,0 +1,20 @@
+.collection-block {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.collection-img {
+    background-image: url(../../../../entities/UI/Colection.png);
+    width: 50%;
+    height: 600px;
+}
+.collection-space {
+    background-color: black;
+    width: 50%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
